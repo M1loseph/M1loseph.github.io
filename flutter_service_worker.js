@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "4dfd89f3a34145138e29f6efb6182ec6",
-"assets/AssetManifest.bin.json": "30972cd5beaaa3de94dd48279a75684d",
-"assets/AssetManifest.json": "0fcbb0d84be777e3f6f3f1d09c07deec",
+const RESOURCES = {"assets/AssetManifest.bin": "47816e961ce86e2b408a055d38cfc663",
+"assets/AssetManifest.bin.json": "7dc434840ed233989936935c666a5a9b",
+"assets/AssetManifest.json": "e0c080f7c75e275652dd0181148974f7",
 "assets/assets/images/linkedin_logo.png": "1b18d461ce75c75fdb4d7b6ec08b3e65",
 "assets/assets/images/profile.jpg": "5f1d95291f065cd95c7bf0d90bb404aa",
+"assets/assets/images/profile_sheep.jpg": "9ddb88755cf830b02b555105c55737f5",
 "assets/assets/images/wmat_logo.png": "8d87b621d274c807b8ba3ee023e7cd5a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "f24e7448790e4f13dcebcde0dfaa7171",
@@ -27,9 +28,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "4dfd89f3a34145138e29f6efb6182ec6
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "aab84a802449e1ecd98f4391b0b77ac4",
-"/": "aab84a802449e1ecd98f4391b0b77ac4",
-"main.dart.js": "851c7d67c2eff0d638680dd9b570102e",
+"index.html": "0def95c0f216705d179705a12ca66ac4",
+"/": "0def95c0f216705d179705a12ca66ac4",
+"main.dart.js": "f77ee60c19c6c0dacd179a0d48133bde",
 "manifest.json": "538cb9f48fe7d9667526e899c3b07689",
 "version.json": "9fb38fad374f4f824f7939492af3743f"};
 // The application shell files that are downloaded before a service worker can
